@@ -6,11 +6,11 @@ Disciplina de **Pensamento Computacional**
 
 ---
 
-Desenvolvimento de site nas linguagens HTML e CSS
+Trabalho de produção de site em HTML e CSS desenvolvido por:
 
-Estudante: *Teotonio José de Souza Junior* nº *45*
+Estudante: *Teotonio José de Souza Junior* **nº** *45*
 
 
-Estudante: *Josicreide da Silva Sauro*     nº 54
+Estudante: *Josicreide da Silva Sauro*     **nº** *54*
 
-**Tema do site:** Loja de doces. 
+**Tema do site:** *Loja de doces.* 

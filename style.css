@@ -14,11 +14,15 @@ body {
     width: 40%;
     margin-left: 100px;
 }
+h2{
+    padding: 20px;
+}
 ul{
     display: inline-block;
     vertical-align: top;
-    margin-right: 200px;
+    margin-right: 130px;
 }
 li {
+    font-size: 20px;
     padding: 20px;
 }
